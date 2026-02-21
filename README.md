@@ -1,0 +1,46 @@
+# Eyedress – Jealous
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You could have anyone you want
+Why would you want
+to be with me?
+I'm nothing special
+You could have anyone you want
+Why would you want
+to be with me?
+You know, I'm nothing special
+Be with whoever you want
+I don't care, I don't care
+I don't wanna know
+Don't tell me
+about your problems
+If you're not trying
+to solve them
+Don't ask me for my help
+Fix it yourself
+She tried to call me yesterday
+But I didn't pick up
+Cause I don't got time
+I don't have time
+I don't have time
+I don't have time
+I don't have time (No)
+Do whatever you want
+I don't care, I don't care
+Don't even tell me
+I don't really wanna know
+Don't ask me how's my day's been
+I just wanna be alone
+Stop talking about your past
+I don't wanna hear it
+Just leave me alone
+Just go
+I don't care about myself
+Cause everyone is trying
+to hurt me (Jealous)
+Just leave me alone (Jealous)
+Just leave me alone
+I just wanna be alone
+```
