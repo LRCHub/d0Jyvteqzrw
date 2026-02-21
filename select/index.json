@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Jealous",
+  "base_artist": "Eyedress",
+  "createdAt": "2026-02-21T21:08:31.395038Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'd Be Jealous Too",
+      "artist": "Dustin Lynch",
+      "has_synced": true,
+      "path": "select/01_I'd_Be_Jealous_Too_Dustin_Lynch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jealous",
+      "artist": "K.T. Oslin",
+      "has_synced": false,
+      "path": "select/02_Jealous_K.T._Oslin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jealous Bones",
+      "artist": "Rolo Tomassi",
+      "has_synced": true,
+      "path": "select/03_Jealous_Bones_Rolo_Tomassi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jealous",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/04_Jealous_YG.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Endlessly Jealous",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/05_Endlessly_Jealous_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jealous Guy",
+      "artist": "Mase feat. 112",
+      "has_synced": false,
+      "path": "select/06_Jealous_Guy_Mase_feat._112.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jealous Guy",
+      "artist": "Mase",
+      "has_synced": false,
+      "path": "select/07_Jealous_Guy_Mase.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jealous",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/08_Jealous_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jealous Heart",
+      "artist": "Máire Brennan",
+      "has_synced": false,
+      "path": "select/09_Jealous_Heart_Máire_Brennan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jealous",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/10_Jealous_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jealous Lover",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/11_Jealous_Lover_ABC.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jealous Guy",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/12_Jealous_Guy_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jealous Guy (Piano, Bass & Drums)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/13_Jealous_Guy_(Piano,_Bass_&_Drums)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jealous Guy (Take 29)",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/14_Jealous_Guy_(Take_29)_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jealous",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/15_Jealous_AlunaGeorge.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jealous",
+      "artist": "The New Division",
+      "has_synced": false,
+      "path": "select/16_Jealous_The_New_Division.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jealous",
+      "artist": "Eyedress",
+      "has_synced": false,
+      "path": "select/pl_01_Jealous_Eyedress.txt"
+    }
+  ]
+}
