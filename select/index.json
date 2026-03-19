@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Jealous",
   "base_artist": "Eyedress",
-  "createdAt": "2026-02-21T21:08:31.395038Z",
+  "createdAt": "2026-03-19T11:38:37.510746Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,15 @@
       "artist": "Eyedress",
       "has_synced": false,
       "path": "select/pl_01_Jealous_Eyedress.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Jealous",
+      "artist": "Eyedress",
+      "has_synced": false,
+      "path": "select/localdb_01_Jealous_Eyedress.txt",
+      "repo_name": "d0Jyvteqzrw"
     }
   ]
 }
